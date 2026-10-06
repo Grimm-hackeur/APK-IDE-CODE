@@ -1,7 +1,7 @@
 # Get a Free API Key (Self-Hosted, via Kaggle)
 
 No API key yet? You can run a free model yourself on Kaggle's free GPUs and
-point this app at it. Takes about 10 minutes to set up.
+point this app at it. Takes about 10 minutes to set
 
 ## 1. Create a Kaggle account
 
